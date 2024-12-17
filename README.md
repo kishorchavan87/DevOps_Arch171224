@@ -1,2 +1,2 @@
 # DevOps_Arch171224
-devops Architect learning from Edureka
+DevOps Architect learning from Edureka
